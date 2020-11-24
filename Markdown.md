@@ -52,3 +52,10 @@ Sprüche zum Welt-Pinguin-Tag.
 ## Hallo-Pinguin-Programm
 
 Hier findet ihr den Code für das Hallo Pinguin Programm in Python:
+
+```python
+import pyfiglet
+
+ascii_banner = pyfiglet.figlet_format("Hallo Pingu!")
+print(ascii_banner)
+```
