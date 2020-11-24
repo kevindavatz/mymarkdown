@@ -18,5 +18,22 @@ Folgende Browserspiele beinhalten **Pinguine** als Entities:
 
 * Langschwanzpinguine
   * Eselspinguin
+  * Adeliepinguin
+  * Zügelpinguin
 * Großpinguine
+  * Königspinguin
+  * Kaiserpinguin
 * Schopfpinguine
+  * Dickschnabelpinguin
+  * Snaresinselpinguin
+  * Kronenpinguin
+  * Haubenpinguin
+  * Goldschopfpinguin
+  * Felsenpinguin
+  * Tristanpinguin
+
+## Aufzucht
+
+Die Aufzucht der Jungen Pinguine lässt sich in zwei Phasen unterteilen:
+  1.In den ersten zwei bis Wochen werden die Kücken permanent von einem Elternteil beaufsichtigt.
+  2.Sobald die Jungtiere herangewachseln sind, beginnt die "Kindergarten"-Zeit. Die Jungen schliessen sich in Gruppen zusammen, während die Alttiere versuchen Nahrung herbeizuschaffen.
