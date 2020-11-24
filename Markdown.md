@@ -7,8 +7,9 @@
 
 >Folgende Browserspiele beinhalten **Pinguine** als Entities:
 
-| Tables   |      Are      |
+| Spiel   |      Basis      |
 |----------|:-------------:|
-| col 1 is |  left-aligned |
-| col 2 is |    centered   |
-| col 3 is | right-aligned |
+| Zombie vs Penguins |  Flash Spiele |
+| Wild Push |    Unity WebGL Spiele   |
+| Penguin Avoids | HTML5 |
+| Yetisports: Snowboard Freeride | HTML5 |
