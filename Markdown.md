@@ -15,7 +15,7 @@ Folgende Browserspiele beinhalten **Pinguine** als Entities:
 | Yetisports: Snowboard Freeride | HTML5 |
 
 ##Pinguin-Gattungen
+
 *Langschwanzpinguine
-  *Eselspinguin
-  *Adeliepinguin 
-  *Zügelpinguin
+*Großpinguine
+*Schopfpinguine
