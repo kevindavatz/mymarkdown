@@ -17,5 +17,6 @@ Folgende Browserspiele beinhalten **Pinguine** als Entities:
 ## Pinguin-Gattungen
 
 * Langschwanzpinguine
+  * Eselspinguin
 * Großpinguine
 * Schopfpinguine
