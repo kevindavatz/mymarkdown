@@ -13,3 +13,9 @@ Folgende Browserspiele beinhalten **Pinguine** als Entities:
 | Wild Push |    Unity WebGL Spiele   |
 | Penguin Avoids | HTML5 |
 | Yetisports: Snowboard Freeride | HTML5 |
+
+##Pinguin-Gattungen
+*Langschwanzpinguine
+  *Eselspinguin
+  *Adeliepinguin 
+  *Zügelpinguin
