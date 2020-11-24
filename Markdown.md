@@ -59,3 +59,9 @@ import pyfiglet
 ascii_banner = pyfiglet.figlet_format("Hallo Pingu!")
 print(ascii_banner)
 ```
+
+## Offene Todos
+
+-[] ~~Install Script~~ Add requirements.txt
+-[] Use *graffiti* font
+-[] Add English translation (Hello Pingu)
