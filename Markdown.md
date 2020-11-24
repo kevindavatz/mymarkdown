@@ -62,6 +62,6 @@ print(ascii_banner)
 
 ## Offene Todos
 
-- [] ~~Install Script~~ Add requirements.txt
-- [] Use *graffiti* font
-- [] Add English translation (Hello Pingu)
+- [ ] ~~Install Script~~ Add requirements.txt
+- [ ] Use *graffiti* font
+- [ ] Add English translation (Hello Pingu)
