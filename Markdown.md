@@ -38,3 +38,17 @@ Die Aufzucht der Jungen Pinguine lässt sich in zwei Phasen unterteilen:
 
   1. In den ersten zwei bis Wochen werden die Kücken permanent von einem Elternteil beaufsichtigt.
   2. Sobald die Jungtiere herangewachseln sind, beginnt die "Kindergarten"-Zeit. Die Jungen schliessen sich in Gruppen zusammen, während die Alttiere versuchen Nahrung herbeizuschaffen.
+
+## Welt-Pinguin-Tag
+
+Sprüche zum Welt-Pinguin-Tag.
+
+>Das Schlimme dran ein Pinguin zu sein ist, dass wenn man sauer ist und wegwatschelt, immer noch total süss aussieht.
+
+>Pinguin: "Ich hätte gerne Passbilder." Fotograf: "Schweiz-weiss oder in Farbe?"
+
+>Drei von vier Stimmen in meinem Kopf wollen schlafen. Eine möchte unbedigt wissen, ob Pinguine Knie haben.
+
+## Hallo-Pinguin-Programm
+
+Hier findet ihr den Code für das Hallo Pinguin Programm in Python:
